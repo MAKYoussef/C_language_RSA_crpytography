@@ -1,0 +1,411 @@
+# depslib dependency file v1.0
+1711066519 source:c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\main.c
+	"LSTPHRASE.h"
+	"PILE.h"
+	"ELTCOUPLEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1710978144 source:c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltphrase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASEPRIM.h"
+
+1711064230 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltphraseprim.h
+	"ELTPHRASESDD.h"
+
+1710971601 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltphrasesdd.h
+	"ELTPHRASE.h"
+
+1710971601 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltphrase.h
+
+1710974526 source:c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\lstphrase.c
+	"LSTPHRASEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1710972616 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\lstphraseprim.h
+	"LSTPHRASESDD.h"
+
+1710972616 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\lstphrasesdd.h
+	"LSTPHRASE.h"
+
+1710973892 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\lstphrase.h
+	"ELTPHRASEPRIM.h"
+
+1711064490 source:c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltcouple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTCOUPLEPRIM.h"
+
+1711064591 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltcoupleprim.h
+	"ELTCOUPLESDD.h"
+
+1711064374 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltcouplesdd.h
+	"ELTCOUPLE.h"
+
+1711064287 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\eltcouple.h
+
+1711057957 source:c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\pile.c
+	"PILEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711064230 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\pileprim.h
+	"PILESDD.h"
+
+1710979012 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\pilesdd.h
+	"PILE.h"
+
+1711064599 c:\users\eyare\onedrive\bureau\projet asd2\projetasd2\pile.h
+	"ELTCOUPLEPRIM.h"
+
+1711230941 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltcouple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTCOUPLEPRIM.h"
+
+1711064591 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltcoupleprim.h
+	"ELTCOUPLESDD.h"
+
+1711064374 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltcouplesdd.h
+	"ELTCOUPLE.h"
+
+1711064287 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltcouple.h
+
+1711638208 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphrase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASEPRIM.h"
+
+1711064230 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphraseprim.h
+	"ELTPHRASESDD.h"
+
+1710971601 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphrasesdd.h
+	"ELTPHRASE.h"
+
+1710971601 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphrase.h
+
+1710974526 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphrase.c
+	"LSTPHRASEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1710972616 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphraseprim.h
+	"LSTPHRASESDD.h"
+
+1710972616 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphrasesdd.h
+	"LSTPHRASE.h"
+
+1711659172 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphrase.h
+	"ELTPHRASEPRIM.h"
+
+1711662587 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\pile.c
+	"PILEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711064230 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\pileprim.h
+	"PILESDD.h"
+
+1710979012 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\pilesdd.h
+	"PILE.h"
+
+1711231533 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\pile.h
+	"ELTCOUPLEPRIM.h"
+
+1711663102 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\main.c
+	"LSTPHRASE.h"
+	"PILE.h"
+	"ELTCOUPLEPRIM.h"
+	"LSTPHRASECONVERTIT.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711663372 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphraseconvertit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASECONVERTITPRIM.h"
+
+1711659537 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphraseconvertitprim.h
+	"ELTPHRASECONVERTITSDD.h"
+
+1711658544 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphraseconvertitsdd.h
+	"ELTPHRASECONVERTIT.h"
+
+1711661395 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\eltphraseconvertit.h
+
+1711663189 source:c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphraseconvertit.c
+	"LSTPHRASECONVERTITPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711659524 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphraseconvertitprim.h
+	"LSTPHRASECONVERTITSDD.h"
+
+1711659710 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphraseconvertitsdd.h
+	"LSTPHRASECONVERTIT.h"
+
+1711659710 c:\users\youss\desktop\projetasd2 (1) v2\projetasd2\lstphraseconvertit.h
+	"ELTPHRASECONVERTITPRIM.h"
+
+1711234541 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltcouple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTCOUPLEPRIM.h"
+
+1711068191 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltcoupleprim.h
+	"ELTCOUPLESDD.h"
+
+1711067974 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltcouplesdd.h
+	"ELTCOUPLE.h"
+
+1711067887 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltcouple.h
+
+1711641808 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphrase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASEPRIM.h"
+
+1711067830 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphraseprim.h
+	"ELTPHRASESDD.h"
+
+1710975201 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphrasesdd.h
+	"ELTPHRASE.h"
+
+1710975201 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphrase.h
+
+1711754748 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphraseconvertit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASECONVERTITPRIM.h"
+
+1711663137 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphraseconvertitprim.h
+	"ELTPHRASECONVERTITSDD.h"
+
+1711662144 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphraseconvertitsdd.h
+	"ELTPHRASECONVERTIT.h"
+
+1712091489 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\eltphraseconvertit.h
+
+1710978126 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphrase.c
+	"LSTPHRASEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1710976216 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphraseprim.h
+	"LSTPHRASESDD.h"
+
+1710976216 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphrasesdd.h
+	"LSTPHRASE.h"
+
+1711662772 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphrase.h
+	"ELTPHRASEPRIM.h"
+
+1711666789 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphraseconvertit.c
+	"LSTPHRASECONVERTITPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711663124 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphraseconvertitprim.h
+	"LSTPHRASECONVERTITSDD.h"
+
+1711663310 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphraseconvertitsdd.h
+	"LSTPHRASECONVERTIT.h"
+
+1711663310 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\lstphraseconvertit.h
+	"ELTPHRASECONVERTITPRIM.h"
+
+1712095031 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\main.c
+	"LSTPHRASE.h"
+	"PILE.h"
+	"ELTCOUPLEPRIM.h"
+	"LSTPHRASECONVERTIT.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+
+1711235133 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\pile.h
+	"ELTCOUPLEPRIM.h"
+
+1711666187 source:c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\pile.c
+	"PILEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711067830 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\pileprim.h
+	"PILESDD.h"
+
+1710982612 c:\users\youss\desktop\projetasd2 (1) v3\projetasd2\pilesdd.h
+	"PILE.h"
+
+1711230941 source:c:\users\eyare\onedrive\bureau\projetasd2\eltcouple.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTCOUPLEPRIM.h"
+
+1711064591 c:\users\eyare\onedrive\bureau\projetasd2\eltcoupleprim.h
+	"ELTCOUPLESDD.h"
+
+1711064374 c:\users\eyare\onedrive\bureau\projetasd2\eltcouplesdd.h
+	"ELTCOUPLE.h"
+
+1711064287 c:\users\eyare\onedrive\bureau\projetasd2\eltcouple.h
+
+1711638208 source:c:\users\eyare\onedrive\bureau\projetasd2\eltphrase.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASEPRIM.h"
+
+1711064230 c:\users\eyare\onedrive\bureau\projetasd2\eltphraseprim.h
+	"ELTPHRASESDD.h"
+
+1710971601 c:\users\eyare\onedrive\bureau\projetasd2\eltphrasesdd.h
+	"ELTPHRASE.h"
+
+1710971601 c:\users\eyare\onedrive\bureau\projetasd2\eltphrase.h
+
+1711751148 source:c:\users\eyare\onedrive\bureau\projetasd2\eltphraseconvertit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<math.h>
+	"ELTPHRASECONVERTITPRIM.h"
+
+1711659537 c:\users\eyare\onedrive\bureau\projetasd2\eltphraseconvertitprim.h
+	"ELTPHRASECONVERTITSDD.h"
+
+1711658544 c:\users\eyare\onedrive\bureau\projetasd2\eltphraseconvertitsdd.h
+	"ELTPHRASECONVERTIT.h"
+
+1712091489 c:\users\eyare\onedrive\bureau\projetasd2\eltphraseconvertit.h
+
+1710974526 source:c:\users\eyare\onedrive\bureau\projetasd2\lstphrase.c
+	"LSTPHRASEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1710972616 c:\users\eyare\onedrive\bureau\projetasd2\lstphraseprim.h
+	"LSTPHRASESDD.h"
+
+1710972616 c:\users\eyare\onedrive\bureau\projetasd2\lstphrasesdd.h
+	"LSTPHRASE.h"
+
+1711659172 c:\users\eyare\onedrive\bureau\projetasd2\lstphrase.h
+	"ELTPHRASEPRIM.h"
+
+1711663189 source:c:\users\eyare\onedrive\bureau\projetasd2\lstphraseconvertit.c
+	"LSTPHRASECONVERTITPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711659524 c:\users\eyare\onedrive\bureau\projetasd2\lstphraseconvertitprim.h
+	"LSTPHRASECONVERTITSDD.h"
+
+1711659710 c:\users\eyare\onedrive\bureau\projetasd2\lstphraseconvertitsdd.h
+	"LSTPHRASECONVERTIT.h"
+
+1711659710 c:\users\eyare\onedrive\bureau\projetasd2\lstphraseconvertit.h
+	"ELTPHRASECONVERTITPRIM.h"
+
+1712933431 source:c:\users\eyare\onedrive\bureau\projetasd2\main.c
+	"LSTPHRASE.h"
+	"PILE.h"
+	"ELTCOUPLEPRIM.h"
+	"LSTPHRASECONVERTIT.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+
+1711231533 c:\users\eyare\onedrive\bureau\projetasd2\pile.h
+	"ELTCOUPLEPRIM.h"
+
+1711662587 source:c:\users\eyare\onedrive\bureau\projetasd2\pile.c
+	"PILEPRIM.h"
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1711064230 c:\users\eyare\onedrive\bureau\projetasd2\pileprim.h
+	"PILESDD.h"
+
+1710979012 c:\users\eyare\onedrive\bureau\projetasd2\pilesdd.h
+	"PILE.h"
+
